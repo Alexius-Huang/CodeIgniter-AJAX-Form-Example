@@ -1,8 +1,10 @@
 <!-- Buttons -->
 <div id="home-button">
 	<a href="#" id="show-post-link">Browse Posts</a>
-	<a href="#" id="new-post-form-link">New Post</a>
+	<a href="#" id="new-post-link">New Post</a>
 </div>
+
+<br>
 
 <div id="show-post">
 	<!-- Post Table -->

@@ -23,7 +23,6 @@ div#show-post table {
 	padding: 10px;
 	color: white;
 	width: 60%;
-
 	position: relative;
 	top: 50px;
 }
@@ -36,6 +35,10 @@ div#show-post table th, div#show-table table td {
 	padding: 10px;
 }
 
+div#new-post {
+	display: none;
+}
+
 div#new-post form {
 	margin: 0 auto;
 	background-color: #85c4ff;
@@ -43,7 +46,6 @@ div#new-post form {
 	width: 20%;
 	border-radius: 15px;
 	color: white;
-
 	position: relative;
 	top: 50px;
 }
@@ -52,4 +54,8 @@ div#new-post form input.text, div#new-post form textarea {
 	text-align: left;
 	width: 90%;
 	border-radius: 5px;
+}
+
+footer p {
+	margin-top: 100px;
 }
